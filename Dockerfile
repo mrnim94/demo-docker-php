@@ -14,4 +14,5 @@ WORKDIR /var/www/html
 #Port d?ch v? ch?y
 EXPOSE 9000
 #cau lenh khoi tao
+
 CMD ["php-fpm.0"]
